@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="1">
+
+  <testsuite name="sauceDemo"
+    errors="0" failures="0" hostname="" id="" package="sauceDemo" skipped="0"
+    tests="1" time="2.260" timestamp="">
+  
+    <testcase name="Test sauceDemo.org" classname="sauceDemo" time="2.260" assertions="13">
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+    
+
+  
+  </testsuite>
+</testsuites>

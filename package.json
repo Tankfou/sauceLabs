@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "geckodriver": "^3.0.1",
+    "nightwatch": "^2.2.2"
+  }
+}
